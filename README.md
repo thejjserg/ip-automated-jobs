@@ -23,3 +23,9 @@ Analytical jobs that parse fields like Components and Labels from Jira exports t
 - HCPCS Formatting for Essette.ipynb
 - HCPCS Formatting for Prism.ipynb
 - HCPCS Formatting for Salesforce.ipynb
+
+
+## 🧰  Tools Used
+- Python (Pandas, datetime, collections)
+- SQL Server
+- Excel / CSV integrations
