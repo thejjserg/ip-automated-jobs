@@ -18,3 +18,8 @@ Generation of clean, readable Excel reports from raw CSVs or exports from ticket
 Analytical jobs that parse fields like Components and Labels from Jira exports to track ticket categories, volume by assignee, and more.
 
 
+## 🔧  Key Projects
+- Automated Report.ipynb
+- HCPCS Formatting for Essette.ipynb
+- HCPCS Formatting for Prism.ipynb
+- HCPCS Formatting for Salesforce.ipynb
